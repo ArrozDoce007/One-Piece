@@ -20,3 +20,28 @@ function desselecionarBotao() {
     const botaoSelecionado = document.querySelector(".botao.selecionado");
     botaoSelecionado.classList.remove("selecionado");
 }
+
+function tocarSom1() {
+    var audio = new Audio("./src/audios/chopper.M4A");
+    audio.play();
+}
+
+function tocarSom2() {
+    var audio = new Audio("./src/audios/zoro.M4A");
+    audio.play();
+}
+
+function tocarSom3() {
+    var audio = new Audio("./src/audios/luffy.M4A");
+    audio.play();
+}
+
+function tocarSom4() {
+    var audio = new Audio("./src/audios/nami.M4A");
+    audio.play();
+}
+
+function tocarSom5() {
+    var audio = new Audio("./src/audios/sanji.M4A");
+    audio.play();
+}
