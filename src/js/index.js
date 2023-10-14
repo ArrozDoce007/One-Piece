@@ -1,7 +1,7 @@
 let audioAtual;
 const botoes = document.querySelectorAll(".botao");
 const personagens = document.querySelectorAll(".personagem");
-const nomesAudios = ["mar sunny.mp3", "chopper.mp3", "zoro.mp3", "luffy.mp3", "nami.mp3", "sanji.mp3"];
+const nomesAudios = ["chopper.mp3", "zoro.mp3", "luffy.mp3", "nami.mp3", "sanji.mp3"];
 
 botoes.forEach((botao, indice) => {
     botao.addEventListener("click", () => {
