@@ -63,14 +63,6 @@ main .personagem .imagem {
     margin-bottom: 35px;
 }
 
-.conteudo .logo2 {
-    background-image: url("../imagens/one-piece-logo2.png");
-    background-size: cover;
-    height: 100px;
-    width: 230px;
-    margin-bottom: 35px;
-}
-
 .botoes {
     position: fixed;
     top: 0;
