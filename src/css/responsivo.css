@@ -41,6 +41,10 @@
         height: auto;
     }
 
+    body {
+        background-image: url("../imagens/sunny.jpg");
+    }
+    
     .conteudo .logo {
         width: 170px;
         height: 75px;
